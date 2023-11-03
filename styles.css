@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background: radial-gradient(rgb(2, 2, 157), rgb(76, 76, 248));
+}
+
+#mainHeading {
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+    background-image: linear-gradient(to right, rgb(171, 7, 7) 45%, red);
+    color: transparent;
+    background-clip: text;
+}
+
+.funParagraph {
+    font-size: 20px;
+    background-color: aliceblue;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+h2 {
+    background-color: aliceblue;
+}
+
+p {
+    background-color: aliceblue;
+}
+
+figcaption {
+    background-color: aliceblue;
+}
