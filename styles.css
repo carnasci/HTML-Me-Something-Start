@@ -8,14 +8,13 @@ body {
     text-align: center;
     font-size: 70px;
     font-weight: 600;
-    background-image: linear-gradient(to right, rgb(171, 7, 7) 45%, red);
-    color: transparent;
-    background-clip: text;
+    color: red;
 }
 
 .funParagraph {
     font-size: 20px;
     background-color: aliceblue;
+    color: green;
 }
 
 img {
