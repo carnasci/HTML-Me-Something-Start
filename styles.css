@@ -13,8 +13,9 @@ body {
 
 .funParagraph {
     font-size: 20px;
-    background-color: aliceblue;
+    background-color: rgb(173, 212, 246);
     color: green;
+    border-radius: 5px;
 }
 
 img {
@@ -22,13 +23,27 @@ img {
     max-width: 100%;
 }
 h2 {
-    background-color: aliceblue;
+    background-color: rgb(173, 212, 246);
+    width: fit-content;
+    border-radius: 5px;
 }
 
 p {
-    background-color: aliceblue;
+    background-color: rgb(173, 212, 246);
+    font-size: 20px;
+    border-radius: 5px;
 }
 
 figcaption {
-    background-color: aliceblue;
+    background-color: rgb(173, 212, 246);
+    font-size: 16px;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+#copyRight {
+    position: relative;
+    left: 1200px;
+    width: fit-content;
+    font-size: 12px;
 }
